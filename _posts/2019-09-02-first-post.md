@@ -1,6 +1,6 @@
 ---
-title: First Post
+title: Temporary Post
 author: Maulik
 layout: post
 ---
-This is probably the first post, but I would write it later.
+There are more things to come on this page.
