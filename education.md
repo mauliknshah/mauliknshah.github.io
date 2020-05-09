@@ -5,8 +5,10 @@ layout: "page"
 icon: fa-book
 order: 3
 ---
+
 <dl>
-  <dt> <h3>Master of Science in Artificial Intelligence </h3> <h4>From: University of Georgia, Year: 2019</h4></dt>
+
+  <dt> <img src="assets/images/uga.png" width="12" height="14" alt="" /> <br/><h3>Master of Science in Artificial Intelligence </h3> <h4>From: University of Georgia, Year: 2019</h4></dt>
   <dd>
     <p>
     Graduated in May 2019, Maulik had a great learning and exploring experience at the University of Georgia. In academics, Maulik learned many AI technologies including multi-agent decision making, machine learning (deep learning, NLP, computer vision, etc.), evolutionary algorithms, robotics, etc. His thesis project "Scalable Decision-Theoretic Planning in Open and Typed Multiagent Systems" in the area of multi-agent decision planning got published in AAAI - 2020. Maulik learned popular machine learning languages and frameworks like python, PyTorch, spark, R, ROS, and many others, and implemented several interesting data science projects.
@@ -21,7 +23,7 @@ order: 3
     </p> -->
   </dd>
 
-  <dt> <h3>Bachelor of Engineering in Computer Engineering </h3> <h4>From: Gujarat Technological University, India, Year: 2019</h4></dt>
+  <dt> <h3>Bachelor of Engineering in Computer Engineering </h3> <h4>From: Gujarat Technological University, India, Year: 2012</h4></dt>
   <dd>
   Maulik has pursued the degree of Bachelors of Engineering (Computer Engineering) from Vishwakarma Government Engineering College (VGEC), Gujarat Technological University (GTU), Ahmedabad in four years(8 semesters) academic program. His primary focus was on application development and software engineering in this undergraduate degree. Participating in extracurricular events, Maulik was an event manager in a hackathon named 'Java Sip..!', which was a part of the TechnoAspire 2011, an annual technology festival at VGEC while he was also a representative of UDISHA club, which was an idea innovation club at GTU.
   </dd>
