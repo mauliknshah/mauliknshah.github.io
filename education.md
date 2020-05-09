@@ -20,4 +20,10 @@ order: 3
     Apart from the academics, Maulik participated in many extra-curricular activities at UGA. Maulik participated in UGA Grad school leadership program, where he worked on his leadership and communication skills, while accomplished a community project for teaching soft-skills to the middle school children. Additionally, Maulik volunteered at UGA Red-Cross and Speak out for species at UGA. Interestingly, Maulik learned swing, Latin and ballroom dancing while at school, which is now one of his favorite hobbies.
     </p> -->
   </dd>
+
+  <dt> <h3>Bachelor of Engineering in Computer Engineering </h3> <h4>From: Gujarat Technological University, India, Year: 2019</h4></dt>
+  <dd>
+  Maulik has pursued the degree of Bachelors of Engineering (Computer Engineering) from Vishwakarma Government Engineering College (VGEC), Gujarat Technological University (GTU), Ahmedabad in four years(8 semesters) academic program. His primary focus was on application development and software engineering in this undergraduate degree. Participating in extracurricular events, Maulik was an event manager in a hackathon named 'Java Sip..!', which was a part of the TechnoAspire 2011, an annual technology festival at VGEC while he was also a representative of UDISHA club, which was an idea innovation club at GTU.
+  </dd>
+
 </dl>
