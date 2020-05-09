@@ -8,7 +8,7 @@ order: 3
 
 <dl>
 
-  <dt> <img src="assets/images/uga.png" width="12" height="14" alt="" /> <br/><h3>Master of Science in Artificial Intelligence </h3> <h4>From: University of Georgia, Year: 2019</h4></dt>
+  <dt> <h3>Master of Science in Artificial Intelligence</h3> <img src="assets/images/uga.png" width="24" height="28" alt="" /> <h4>From: University of Georgia, Year: 2019</h4></dt>
   <dd>
     <p>
     Graduated in May 2019, Maulik had a great learning and exploring experience at the University of Georgia. In academics, Maulik learned many AI technologies including multi-agent decision making, machine learning (deep learning, NLP, computer vision, etc.), evolutionary algorithms, robotics, etc. His thesis project "Scalable Decision-Theoretic Planning in Open and Typed Multiagent Systems" in the area of multi-agent decision planning got published in AAAI - 2020. Maulik learned popular machine learning languages and frameworks like python, PyTorch, spark, R, ROS, and many others, and implemented several interesting data science projects.
