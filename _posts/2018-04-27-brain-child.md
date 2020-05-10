@@ -1,5 +1,6 @@
 ---
-title: Automatic Registration and Segmentation of Brain Images
+title: Brain Child
+subtitle: Automatic Registration and Segmentation of 3D Brain Images
 layout: post
 icon: fa-lightbulb
 icon-style: regular

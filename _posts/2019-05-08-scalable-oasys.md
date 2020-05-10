@@ -1,6 +1,6 @@
 ---
-title: Scalable Decision-Theoretic Planning in Open and Typed Multiagent Systems
-layout: post
+title: Scalable OASYS
+subtitle: Scalable Decision-Theoretic Planning in Open and Typed Multiagent Systems
 icon: fa-lightbulb
 icon-style: regular
 ---
