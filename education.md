@@ -6,7 +6,7 @@ icon: fa-book
 order: 3
 ---
 
-<h3> <b> <u>Academic Degree Programs: </u> </b> </h3> <br/>
+<h3> <b> <u>Academic Degree Programs: </u> </b> </h3>
 <dl>
   <dt> <h3>Master of Science in Artificial Intelligence</h3>  <h4>From: University of Georgia, Year: May 2019</h4></dt>
   <dd>
@@ -30,7 +30,7 @@ order: 3
 
 </dl>
 
-<h3> <u> <b> Certificates:</b> </u> </h3> <br/>
+<h3> <u> <b> Certificates:</b> </u> </h3>
 <dl>
   <dt> <h3>Deep Learning Specialization at Coursera</h3>  <h4>From: deeplearning.ai, Year: Ongoing</h4></dt>
   <dd>
