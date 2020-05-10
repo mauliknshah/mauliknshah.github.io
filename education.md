@@ -3,7 +3,7 @@ title: Education
 subtitle: List of accomplished degrees and certificates by Maulik.
 layout: "page"
 icon: fa-book
-order: 3
+order: 2
 ---
 
 <h3> <b> <u>Academic Degree Programs: </u> </b> </h3>
