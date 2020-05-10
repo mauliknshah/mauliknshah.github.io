@@ -6,7 +6,7 @@ icon: fa-book
 order: 3
 ---
 
-<h4> <b> <u>Academic Degree Programs: </u> </b> </h4>
+<h3> <b> <u>Academic Degree Programs: </u> </b> </h3> <br/>
 <dl>
   <dt> <h3>Master of Science in Artificial Intelligence</h3>  <h4>From: University of Georgia, Year: May 2019</h4></dt>
   <dd>
@@ -30,7 +30,7 @@ order: 3
 
 </dl>
 
-<h4> <u> <b> Certificates:</b> </u> </h4>
+<h3> <u> <b> Certificates:</b> </u> </h3> <br/>
 <dl>
   <dt> <h3>Deep Learning Specialization at Coursera</h3>  <h4>From: deeplearning.ai, Year: Ongoing</h4></dt>
   <dd>
@@ -65,5 +65,10 @@ order: 3
   <dt> <h3>Text Mining and Analytics at Coursera</h3>  <h4>From: University of Illinois at Urbana-Champaign, Year: Jul 2015</h4></dt>
   <dd>
   Teaches the fundamentals of text mining including bag of words model, and then introduces to several techniques to analyze such data. Reference ID: QAMAT4J7L8.
+  </dd>
+
+  <dt> <h3>Oracle Certified Java Programmer (OCJP) SE6</h3>  <h4>From: Oracle, Year: Mar 2014</h4></dt>
+  <dd>
+  A popular Java devloper certificate.
   </dd>
 </dl>
