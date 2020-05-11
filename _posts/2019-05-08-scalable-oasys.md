@@ -4,7 +4,8 @@ layout: post
 icon: fa-lightbulb
 icon-style: regular
 ---
-### Scalable Decision-Theoretic Planning in Open and Typed Multiagent Systems (Area: Multiagent systems, published at AAAI-2020)
+### Scalable Decision-Theoretic Planning in Open and Typed Multiagent Systems
+### Area: Multiagent systems, published at AAAI-2020
 
 Maulik's theses project, under the direction of Dr. Prashant Doshi and in collaboration with Dr. Adam Eck and Dr. Leenkiat Soh, produced a novel multi-agent decision-making framework for open agent systems. This new framework can scale to hundreds of agents and allows each individual agent to make its own decision in the absence of any communication medium. Some practical uses of this framework include autonomous co-operating fire-fighters fighting wildfire trying to extinguish fires effectively and efficiently, competitive autonomous cab agents trying to maximize their revenues, etc. This research has been published in AAAI-2020 and is well received by fellow researchers.
 
