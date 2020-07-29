@@ -6,7 +6,7 @@ icon-style: regular
 ---
 #### Neuron finder for fMRI images using NMF and Deep Learning
 #### Area: Computer Vision; Technologies: Python, OpenCV.
-#### Links: [Github Repo](https://github.com/mauliknshah/sudokuwithGA)
+#### Links: [Github Repo](https://github.com/mauliknshah/Elders)
 
 In the neuron finder, a huge fMRI image dataset of brain images has been segmented using classical computer vision techniques like non-nagetive matrix factorization(NMF), image filters, and deep learning framework Sigma FRCNN. The project was accomplished in a team of 3.
 
